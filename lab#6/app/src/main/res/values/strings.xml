@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Radu and Artiom lab#6</string>
+    <string name="action_send_email">Expediati lui Radu si Artiom un email</string>
+
+    <string name="Tradition_Choice_1">PHP</string>
+    <string name="Tradition_Choice_2">JavaScript</string>
+    <string name="Tradition_Choice_3">HTML</string>
+    <string name="Tradition_Choice_4">HTML 5</string>
+    <string name="Tradition_Choice_5">CSS</string>
+    <string name="Tradition_Choice_6">C++</string>
+    <string name="Tradition_Choice_7">Asambler</string>
+
+
+    <string name="title_activity_trees">PHP</string>
+    <string name="title_activity_cookies">JS</string>
+    <string name="title_activity_wreaths">HTML</string>
+    <string name="title_activity_beverages">HTML 5</string>
+    <string name="title_activity_entrees">CSS</string>
+    <string name="title_activity_cheer">C++</string>
+    <string name="title_activity_decorations">Asambler</string>
+
+</resources>
